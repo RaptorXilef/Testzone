@@ -1,0 +1,6 @@
+name: TestPlugin3
+version: 0.0.0.1
+author: RaptorXilef
+webseite: https://github.com/RaptorXilef/raptorxilef.github.com
+
+main: com.github.raptorxilef.testplugin3.TestPlugin3
